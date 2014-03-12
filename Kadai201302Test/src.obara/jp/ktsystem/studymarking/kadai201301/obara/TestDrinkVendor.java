@@ -9,7 +9,7 @@ import jp.ktsystem.studymarking.kadai201301.test.vendor.AbstractTestDrinkVendor;
  * @since 2013/01/22
  */
 public class TestDrinkVendor extends AbstractTestDrinkVendor<DrinkVendor> {
-
+	// 何故か赤くなってしまいました
 	protected Class<DrinkVendor> getVendor() {
 		return DrinkVendor.class;
 	}
